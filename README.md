@@ -16,3 +16,4 @@ With the help of this app, user can decide upon which tile will fit their room, 
 
 ## Screenshots
 
+<img src="https://github.com/lightlessdays/ar-tiles/blob/main/WhatsApp%20Image%202022-06-15%20at%2012.13.25%20PM%20(1).jpeg" width=30%>
