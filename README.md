@@ -13,3 +13,6 @@ This app has been made using Unity and ARFoundation, so this app is compatible w
 This app tracks horizontal planes around you. After tracking horizontal planes, it adds texture to the horizontal planes, giving users the illusion of tiles getting added to the planes.
 
 With the help of this app, user can decide upon which tile will fit their room, without having to step out of the comfort of their homes.
+
+## Screenshots
+
