@@ -2,20 +2,14 @@
 
 ![banner](https://github.com/lightlessdays/ar-tiles/blob/main/AR%20Tiles%20Banner.png)
 
-## Play the Game
+## Test the app
 
-To play the game, [click here](https://lightlessdays.github.io/snakes-2d/)
+Download the app from here: [Download  APK](https://drive.google.com/file/d/1aCpERAaPkTyu1F5ARzpWaT5QH0mg9W3x/view?usp=sharing)
 
-## How to Play?
+## How it works?
 
-The rules of the game are simple.
+This app has been made using Unity and ARFoundation, so this app is compatible with both iOS and Android. This app requires you to have ARCore or ARKit installed in your device. If your phone does not support AR, unfortunately, you cannot use this app.
 
-- Eat as many red blocks as possible.
-- Don't let the snake eat itself.
+This app tracks horizontal planes around you. After tracking horizontal planes, it adds texture to the horizontal planes, giving users the illusion of tiles getting added to the planes.
 
-## Controls
-
-Use arrow keys or W,A,S,D keys to control the snake.
-
-<hr>
-<b>Loading the game for the FIRST time may take longer as it needs to load resources. This game is meant to be played in the full screen mode. To enter full screen, tap the blue colored full screen icon at the bottom left of the screen.</b>
+With the help of this app, user can decide upon which tile will fit their room, without having to step out of the comfort of their homes.
