@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class PlaneMaterialManager : MonoBehaviour
 {
-
+    //taking the input from user 
     [SerializeField]
     private Material _floorMaterial;
     [SerializeField]
@@ -16,6 +16,7 @@ public class PlaneMaterialManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        // adding listeners on button click
         _buttons[0].onClick.AddListener(() => onClickButtonZero());
         _buttons[1].onClick.AddListener(() => onClickButtonOne());
         _buttons[2].onClick.AddListener(() => onClickButtonTwo());
@@ -24,7 +25,7 @@ public class PlaneMaterialManager : MonoBehaviour
         _buttons[5].onClick.AddListener(() => onClickButtonFive());
     }
 
-
+    // changing the texture on event trigger
     void onClickButtonZero() {
         _floorMaterial.SetTexture("_MainTex", _textures[0]);
     }
